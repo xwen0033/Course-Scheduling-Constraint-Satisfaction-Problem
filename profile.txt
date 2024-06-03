@@ -1,0 +1,8 @@
+minUnits 0
+maxUnits 3
+
+register Win2023
+register Spr2024
+
+request CS221 in Win2023 weight 3
+request CS224W or CS224N in Spr2024
